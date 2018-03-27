@@ -11,7 +11,7 @@ public class FadeInAndOut : MonoBehaviour {
     private Text text;
     private bool isFading = true;
 
-    //Add refrence to objets text component
+    //Add reference to objets text component
     void Start()
     {
         text = gameObject.GetComponent<Text>();
@@ -23,9 +23,18 @@ public class FadeInAndOut : MonoBehaviour {
         {
             text.color = new Color(text.color.r, text.color.g, text.color.b, text.color.a - (Time.deltaTime * fadeRate));
 
-            if(text.color.a <=0)
+            if(text.color.a <= 0.2f)
             {
                 isFading = false;
+            }
+        }
+        else
+        {
+            text.color = new Color(text.color.r, text.color.g, text.color.b, text.color.a + (Time.deltaTime * fadeRate));
+
+            if(text.color.a >= 0.9f)
+            {
+                isFading = true;
             }
         }
 	}

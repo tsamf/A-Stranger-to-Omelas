@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: cb048c1f1989bba4db6b75182886eb11
+  - enabled: 1
+    path: Assets/Scenes/TheBridge.unity
+    guid: 4e966a6d60aecbf44873aebb4b82117a
