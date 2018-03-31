@@ -164,6 +164,7 @@ GameObject:
   m_Component:
   - component: {fileID: 170052553}
   - component: {fileID: 170052554}
+  - component: {fileID: 170052555}
   m_Layer: 0
   m_Name: bridge_foreground_top
   m_TagString: Untagged
@@ -228,6 +229,18 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
+--- !u!114 &170052555
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 170052552}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd5074c5f311d9d4db724b5db6c9b3a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parallaxFactor: 0.5
 --- !u!1 &215758826
 GameObject:
   m_ObjectHideFlags: 0
@@ -310,6 +323,7 @@ GameObject:
   m_Component:
   - component: {fileID: 955289707}
   - component: {fileID: 955289708}
+  - component: {fileID: 955289709}
   m_Layer: 0
   m_Name: bridge_background_top
   m_TagString: Untagged
@@ -374,6 +388,18 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
+--- !u!114 &955289709
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 955289706}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd5074c5f311d9d4db724b5db6c9b3a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parallaxFactor: 0.05
 --- !u!1001 &1193297996
 Prefab:
   m_ObjectHideFlags: 0
@@ -591,6 +617,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1900365381}
   - component: {fileID: 1900365382}
+  - component: {fileID: 1900365383}
   m_Layer: 0
   m_Name: bridge_background
   m_TagString: Untagged
@@ -655,6 +682,18 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
+--- !u!114 &1900365383
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1900365380}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd5074c5f311d9d4db724b5db6c9b3a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parallaxFactor: 0.05
 --- !u!1 &1963140374
 GameObject:
   m_ObjectHideFlags: 0

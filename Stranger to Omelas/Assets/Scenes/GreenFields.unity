@@ -422,6 +422,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1541191332}
   - component: {fileID: 1541191331}
+  - component: {fileID: 1541191333}
   m_Layer: 0
   m_Name: greenfields_background_top
   m_TagString: Untagged
@@ -486,6 +487,19 @@ Transform:
   m_Father: {fileID: 1850037287}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1541191333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1541191330}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd5074c5f311d9d4db724b5db6c9b3a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parallaxFactor: 0.5
+  sameDirectionAsCamera: 1
 --- !u!1001 &1715317167
 Prefab:
   m_ObjectHideFlags: 0
