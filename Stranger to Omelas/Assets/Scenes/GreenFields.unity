@@ -161,6 +161,11 @@ Prefab:
       propertyPath: SceneToLoad
       value: TheBridge
       objectReference: {fileID: 0}
+    - target: {fileID: 114622321760706970, guid: e73527bed85aa444cbe0537587af01ba,
+        type: 2}
+      propertyPath: sceneToLoad
+      value: TheBridge
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e73527bed85aa444cbe0537587af01ba, type: 2}
   m_IsPrefabParent: 0
@@ -400,6 +405,11 @@ Prefab:
       propertyPath: m_Name
       value: The Library SceneTrigger
       objectReference: {fileID: 0}
+    - target: {fileID: 114622321760706970, guid: e73527bed85aa444cbe0537587af01ba,
+        type: 2}
+      propertyPath: sceneToLoad
+      value: TheLibrary
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e73527bed85aa444cbe0537587af01ba, type: 2}
   m_IsPrefabParent: 0
@@ -595,6 +605,11 @@ Prefab:
     - target: {fileID: 114622321760706970, guid: e73527bed85aa444cbe0537587af01ba,
         type: 2}
       propertyPath: SceneToLoad
+      value: ThePlaza
+      objectReference: {fileID: 0}
+    - target: {fileID: 114622321760706970, guid: e73527bed85aa444cbe0537587af01ba,
+        type: 2}
+      propertyPath: sceneToLoad
       value: ThePlaza
       objectReference: {fileID: 0}
     m_RemovedComponents: []

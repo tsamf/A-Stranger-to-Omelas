@@ -11,3 +11,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TheBridge.unity
     guid: 4e966a6d60aecbf44873aebb4b82117a
+  - enabled: 1
+    path: Assets/Scenes/GreenFields.unity
+    guid: 526f97114b1430f42b8f3a2d037c9e7d
+  - enabled: 1
+    path: Assets/Scenes/TheLibrary.unity
+    guid: c08e22cb57bff29439379a928a01811a
+  - enabled: 1
+    path: Assets/Scenes/ThePlaza.unity
+    guid: cb772059f14ebf34286cd57d59380afd

@@ -328,6 +328,11 @@ Prefab:
       propertyPath: m_Name
       value: Green Fields SceneTrigger
       objectReference: {fileID: 0}
+    - target: {fileID: 114622321760706970, guid: e73527bed85aa444cbe0537587af01ba,
+        type: 2}
+      propertyPath: sceneToLoad
+      value: GreenFields
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e73527bed85aa444cbe0537587af01ba, type: 2}
   m_IsPrefabParent: 0

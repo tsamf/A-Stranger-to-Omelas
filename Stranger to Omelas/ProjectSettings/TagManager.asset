@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Navigator
   - Stranger
+  - LevelManager
   layers:
   - Default
   - TransparentFX

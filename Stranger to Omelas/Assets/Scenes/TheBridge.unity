@@ -574,6 +574,11 @@ Prefab:
       propertyPath: m_Name
       value: Green Fields Scene Trigger
       objectReference: {fileID: 0}
+    - target: {fileID: 114622321760706970, guid: e73527bed85aa444cbe0537587af01ba,
+        type: 2}
+      propertyPath: sceneToLoad
+      value: GreenFields
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e73527bed85aa444cbe0537587af01ba, type: 2}
   m_IsPrefabParent: 0
@@ -658,9 +663,10 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1963140375}
+  - component: {fileID: 1963140376}
   m_Layer: 0
   m_Name: LevelManager
-  m_TagString: Untagged
+  m_TagString: LevelManager
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -678,6 +684,17 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1963140376
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1963140374}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b15f029fa83a0448ba84e1e6dce9306, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &2039113607
 Prefab:
   m_ObjectHideFlags: 0
