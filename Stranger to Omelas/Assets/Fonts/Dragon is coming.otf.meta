@@ -1,23 +1,14 @@
 fileFormatVersion: 2
-guid: 2fcba949b38783041a534b541e011ba1
-timeCreated: 1522009549
-licenseType: Free
+guid: 853e66c4689095044baa82c9bddf74ae
 TrueTypeFontImporter:
-  externalObjects: {}
-  serializedVersion: 4
+  serializedVersion: 2
   fontSize: 16
   forceTextureCase: -2
-  characterSpacing: 0
-  characterPadding: 1
+  characterSpacing: 1
+  characterPadding: 0
   includeFontData: 1
-  fontName: Dragon is Coming
-  fontNames:
-  - Dragon is Coming
-  fallbackFontReferences: []
+  use2xBehaviour: 0
+  fontNames: []
   customCharacters: 
   fontRenderingMode: 0
-  ascentCalculationMode: 1
-  useLegacyBoundsCalculation: 0
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 

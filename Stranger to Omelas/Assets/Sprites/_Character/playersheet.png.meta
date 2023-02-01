@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: b8d7c98d318b3c74b80052cfc07f5778
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: playersheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 215
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: playersheet_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 564
+        width: 215
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: playersheet_2
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 564
+        width: 215
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: playersheet_3
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 564
+        width: 215
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: playersheet_4
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 564
+        width: 215
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: playersheet_5
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 564
+        width: 215
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: playersheet_6
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 564
+        width: 215
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: playersheet_7
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 564
+        width: 215
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: playersheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 215
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: playersheet_9
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 282
+        width: 215
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: playersheet_10
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 282
+        width: 215
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: playersheet_11
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 282
+        width: 215
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: playersheet_12
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 282
+        width: 215
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: playersheet_13
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 282
+        width: 215
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: playersheet_14
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 282
+        width: 215
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: playersheet_15
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 282
+        width: 215
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: playersheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 215
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: playersheet_17
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 215
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: playersheet_18
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 215
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: playersheet_19
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 0
+        width: 215
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

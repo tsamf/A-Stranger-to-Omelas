@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 0a478a24ced22764ba2a7c53aa13c993
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: playersheetnew_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 253
+        width: 236
+        height: 460
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: playersheetnew_1
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 253
+        width: 293
+        height: 452
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: playersheetnew_2
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 253
+        width: 198
+        height: 468
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: playersheetnew_3
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 248
+        width: 175
+        height: 470
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: playersheetnew_4
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 255
+        width: 268
+        height: 463
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: playersheetnew_5
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 260
+        width: 284
+        height: 461
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: playersheetnew_6
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 268
+        width: 264
+        height: 453
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: playersheetnew_7
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 265
+        width: 184
+        height: 456
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: playersheetnew_8
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 778
+        width: 193
+        height: 466
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: playersheetnew_9
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 778
+        width: 190
+        height: 461
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: playersheetnew_10
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 773
+        width: 253
+        height: 466
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

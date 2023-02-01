@@ -1,34 +1,34 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
+using System.Collections;
 
 public class Parallax : MonoBehaviour {
 
-    [Tooltip("Sets how fast a parallax is relative to the camera.")]
-    public float parallaxFactor;
+	public float parallaxFactor;
+	//public float smoothing;
 
-    [Tooltip("Sets the direction of the parallax.")]
-    public bool sameDirectionAsCamera = false;
+	public Transform camera;
+	private Vector2 previousCamPos;
 
-    void Start() {
-        UpdateParrallax();
-    }
+	// Use this for initialization
+	void Start () {
+		previousCamPos = camera.position;
+	}
 
-    void Update() {
-        UpdateParrallax();
-    }
+	void Awake(){
+		camera = Camera.main.transform;
+	}
+	
+	// Update is called once per frame
+	void Update () {
+		float parallax = (previousCamPos.x - camera.position.x) * parallaxFactor;
+	
+		float newposition = this.transform.position.x + parallax;
 
-    void UpdateParrallax()
-    {
-        if (sameDirectionAsCamera)
-        {
-            float newPositionX = Camera.main.transform.position.x * parallaxFactor;
-            transform.position = new Vector3(newPositionX, transform.position.y, transform.position.z);
-        }
-        else
-        {
-            float newPositionX = Camera.main.transform.position.x * parallaxFactor * -1;
-            transform.position = new Vector3(newPositionX, transform.position.y, transform.position.z);
-        }
-    }
+		this.transform.position = new Vector3(newposition,this.transform.position.y,this.transform.position.z);
+		//this.transform.position = Vector3.Lerp(this.transform.position,
+		  //                                 new Vector3(newposition,this.transform.position.y,this.transform.position.z),
+			//				               smoothing * Time.deltaTime);
+
+		previousCamPos = camera.position;
+	}
 }
