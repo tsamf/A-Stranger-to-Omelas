@@ -1,6 +1,9 @@
 # Omelas
 A 2D point and click game built in Unity.
 
+![Title Screen](/Stranger-to-Omelas/Assets/Sprites/new_title.png)
+
+
 Unity Version: 5.0.0f4  
 Playthrough: https://www.youtube.com/watch?v=1rIpgmruaWA
 
