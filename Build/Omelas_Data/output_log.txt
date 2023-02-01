@@ -1,0 +1,103 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igd10iumd32.dll 31.0.101.3301]
+    Renderer: Intel(R) Iris(R) Xe Graphics
+    Vendor:   Intel
+    VRAM:     2111 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\samfo\Documents\Repositories\A-Stranger-to-Omelas\Build\Omelas_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\samfo\Documents\Repositories\A-Stranger-to-Omelas\Build\Omelas_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\samfo\Documents\Repositories\A-Stranger-to-Omelas\Build\Omelas_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\samfo\Documents\Repositories\A-Stranger-to-Omelas\Build\Omelas_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\samfo\Documents\Repositories\A-Stranger-to-Omelas\Build\Omelas_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\samfo\Documents\Repositories\A-Stranger-to-Omelas\Build\Omelas_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\samfo\Documents\Repositories\A-Stranger-to-Omelas\Build\Omelas_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\samfo\Documents\Repositories\A-Stranger-to-Omelas\Build\Omelas_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.353 seconds
+desktop: 1920x1200 60Hz; virtual: 1920x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\samfo\Documents\Repositories\A-Stranger-to-Omelas\Build\Omelas_Data\Managed\System.Core.dll (this message is harmless)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.531700 ms
+Platform assembly: C:\Users\samfo\Documents\Repositories\A-Stranger-to-Omelas\Build\Omelas_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: C:\Users\samfo\Documents\Repositories\A-Stranger-to-Omelas\Build\Omelas_Data\Managed\System.dll (this message is harmless)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 254.
+Total: 0.261300 ms (FindLiveObjects: 0.030800 ms CreateObjectMapping: 0.007500 ms MarkObjects: 0.214000 ms  DeleteObjects: 0.008000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.259300 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 608.
+Total: 0.202800 ms (FindLiveObjects: 0.020100 ms CreateObjectMapping: 0.009000 ms MarkObjects: 0.162500 ms  DeleteObjects: 0.010600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.482100 ms
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 626.
+Total: 0.412000 ms (FindLiveObjects: 0.029800 ms CreateObjectMapping: 0.012800 ms MarkObjects: 0.265100 ms  DeleteObjects: 0.103000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.457900 ms
+
+Unloading 202 unused Assets to reduce memory usage. Loaded Objects now: 475.
+Total: 0.487800 ms (FindLiveObjects: 0.041300 ms CreateObjectMapping: 0.013600 ms MarkObjects: 0.232000 ms  DeleteObjects: 0.200200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.566300 ms
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 639.
+Total: 0.323800 ms (FindLiveObjects: 0.050200 ms CreateObjectMapping: 0.011700 ms MarkObjects: 0.214900 ms  DeleteObjects: 0.046200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.359900 ms
+
+Unloading 225 unused Assets to reduce memory usage. Loaded Objects now: 421.
+Total: 0.524900 ms (FindLiveObjects: 0.064600 ms CreateObjectMapping: 0.011700 ms MarkObjects: 0.221300 ms  DeleteObjects: 0.224800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.574400 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 415.
+Total: 0.278200 ms (FindLiveObjects: 0.026500 ms CreateObjectMapping: 0.007900 ms MarkObjects: 0.228600 ms  DeleteObjects: 0.013100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.292900 ms
+
+Unloading 76 unused Assets to reduce memory usage. Loaded Objects now: 342.
+Total: 0.334000 ms (FindLiveObjects: 0.016100 ms CreateObjectMapping: 0.007100 ms MarkObjects: 0.178600 ms  DeleteObjects: 0.131600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.244900 ms
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 342.
+Total: 0.213000 ms (FindLiveObjects: 0.010400 ms CreateObjectMapping: 0.007100 ms MarkObjects: 0.180200 ms  DeleteObjects: 0.014900 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.271000 ms
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 321.
+Total: 0.235100 ms (FindLiveObjects: 0.010500 ms CreateObjectMapping: 0.007200 ms MarkObjects: 0.205800 ms  DeleteObjects: 0.011000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.279200 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 303.
+Total: 0.429500 ms (FindLiveObjects: 0.024900 ms CreateObjectMapping: 0.011600 ms MarkObjects: 0.367900 ms  DeleteObjects: 0.023800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.267700 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 0.215600 ms (FindLiveObjects: 0.010500 ms CreateObjectMapping: 0.006700 ms MarkObjects: 0.190800 ms  DeleteObjects: 0.007000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.243100 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 671.
+Total: 0.243800 ms (FindLiveObjects: 0.016200 ms CreateObjectMapping: 0.011300 ms MarkObjects: 0.206000 ms  DeleteObjects: 0.009600 ms)
+
