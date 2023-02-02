@@ -1,7 +1,7 @@
 # Omelas
 A 2D point and click game built in Unity.
 
-![Title Screen](/Stranger-to-Omelas/Assets/Sprites/new_title.png)
+![Title Screen](/Stranger-to-Omelas/Assets/Sprites/new_title.png | width = 250)
 
 
 Unity Version: 5.0.0f4  
