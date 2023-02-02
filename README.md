@@ -1,5 +1,5 @@
 # Omelas
-A 2D point and click game built in Unity.
+A point and click adventure inspired by the short story The Ones Who Walk Away From Omelas by Ursula Le Guin.
 
 <img src="/Stranger-to-Omelas/Assets/Sprites/new_title.png" width="500">
 
